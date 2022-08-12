@@ -1,2 +1,2 @@
 # 3D-heart
-3D hear in Matlab for Tu B'Av
+3D heart in Matlab for Tu B'Av
